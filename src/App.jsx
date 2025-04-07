@@ -130,7 +130,7 @@ export default function App() {
 
       <section id="home" className="min-h-screen flex items-center justify-center flex-col pt-24">
         <motion.img
-          src="../images/avatar.jpg"
+          src="https://img.freepik.com/free-vector/young-man-black-shirt_1308-173618.jpg?semt=ais_hybrid&w=740"
           alt="Avatar"
           className="rounded-full mb-4"
           initial={{ opacity: 0, scale: 0.5 }}
